@@ -1,7 +1,7 @@
-package id.ac.prisma.siapmobilebackend.services;
+package id.ac.prisma.swordlightpaymentbackend.services;
 
-import id.ac.prisma.siapmobilebackend.data.model.TbUser;
-import id.ac.prisma.siapmobilebackend.data.repo.TbUserRepository;
+import id.ac.prisma.swordlightpaymentbackend.data.model.TbUser;
+import id.ac.prisma.swordlightpaymentbackend.data.repo.TbUserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

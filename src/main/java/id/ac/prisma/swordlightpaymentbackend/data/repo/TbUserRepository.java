@@ -1,6 +1,6 @@
-package id.ac.prisma.siapmobilebackend.data.repo;
+package id.ac.prisma.swordlightpaymentbackend.data.repo;
 
-import id.ac.prisma.siapmobilebackend.data.model.TbUser;
+import id.ac.prisma.swordlightpaymentbackend.data.model.TbUser;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.Optional;

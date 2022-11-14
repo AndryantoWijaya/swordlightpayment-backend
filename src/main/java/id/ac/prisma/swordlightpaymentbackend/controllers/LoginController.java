@@ -1,8 +1,8 @@
-package id.ac.prisma.siapmobilebackend.controllers;
+package id.ac.prisma.swordlightpaymentbackend.controllers;
 
-import id.ac.prisma.siapmobilebackend.data.model.TbUser;
-import id.ac.prisma.siapmobilebackend.data.repo.TbUserRepository;
-import id.ac.prisma.siapmobilebackend.models.LoginRequest;
+import id.ac.prisma.swordlightpaymentbackend.data.model.TbUser;
+import id.ac.prisma.swordlightpaymentbackend.data.repo.TbUserRepository;
+import id.ac.prisma.swordlightpaymentbackend.models.LoginRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

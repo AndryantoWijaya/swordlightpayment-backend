@@ -1,4 +1,4 @@
-package id.ac.prisma.siapmobilebackend.models;
+package id.ac.prisma.swordlightpaymentbackend.models;
 
 public class LoginRequest {
     String email;
